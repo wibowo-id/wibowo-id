@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wibowo-id
+- 👋 Hi, I’m Chandra Wibowo
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Java (in future i want to be springboot programmer)
 - 💞️ I’m looking to collaborate on ERP system
 - 📫 How to reach me chandra@wibowo.id
 
