@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chandra Wibowo
+- 👋 Hi, introduce i am a programmer since 2012 and using linux since 2007
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java (in future i want to be springboot programmer)
+- 🌱 I have skill Go, Javascript, Node.js, Vue.js, PHP, Laravel, MySQL, MongoDB & PostgreSQL
 - 💞️ I’m looking to collaborate on ERP system
 - 📫 How to reach me chandra@wibowo.id
 
