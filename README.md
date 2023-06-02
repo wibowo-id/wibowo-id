@@ -12,7 +12,7 @@
 
 - 👋 Hi, introduce i am a programmer since 2012 and using linux since 2007
 - 👀 I’m interested in Programming
-- 🌱 I have skill Go, Javascript, Node.js, Vue.js, PHP, Laravel, MySQL, MongoDB & PostgreSQL
+- 🌱 I have skill Go, Javascript, Node.js, Vue.js, Python, Java, PHP, Laravel, MySQL, MongoDB & PostgreSQL
 - 💞️ I’m looking to collaborate on ERP system
 - 📫 How to reach me chandra@wibowo.id
 - Manager Software Development at PT. Nash Interaksi Semesta
