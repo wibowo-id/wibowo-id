@@ -21,3 +21,15 @@ You can click the Preview link to take a look at your changes.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=wibowo-id&show_icons=true&theme=tokyonight" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wibowo-id&layout=compact&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wibowo-id&layout=compact&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wibowo-id&layout=compact&show_icons=true&theme=tokyonight" />
+</picture>
