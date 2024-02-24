@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ERP system
 - 📫 How to reach me chandra@wibowo.id
 - Manager Software Development at PT. Nash Interaksi Semesta
-- Supervisor Full Stack Developer at Paxel.co
 
 <!---
 wibowo-id/wibowo-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
